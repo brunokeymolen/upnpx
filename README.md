@@ -1,4 +1,3 @@
-upnpx - iOS/OSX Open Source UPnP Library
 Open Source Mac OS X / iOS Cocoa UPnP Stack
 
 
