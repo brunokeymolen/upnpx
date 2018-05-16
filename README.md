@@ -1,9 +1,9 @@
 Open Source Mac OS X / iOS Cocoa UPnP Stack
 
 
-this is an archive of upnpx-1.2.4
+This is an archive of my original upnpx-1.2.4 project:
 https://code.google.com/archive/p/upnpx/
 
 
-for latest versions and further development please use the fork of Felix Paul Kühne (VLC)  
+The project has been taken over by Felix Paul Kühne (VLC), for all futher development please use his fork:  
 https://github.com/fkuehne/upnpx
